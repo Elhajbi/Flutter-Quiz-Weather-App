@@ -8,13 +8,6 @@ Une application Flutter simple mais fonctionnelle intégrant :
 
 ---
 
-## 📸 Aperçu
-
-| Quiz Tab                           | Weather Tab                        |
-|-----------------------------------|------------------------------------|
-| ![Quiz Screenshot](screenshots/quiz.png) | ![Weather Screenshot](screenshots/weather.png) |
-
----
 
 ## 📦 Fonctionnalités
 
