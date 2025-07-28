@@ -91,5 +91,5 @@ Pour utiliser d’autres icônes météo :
 ## 👨‍💻 Auteur
 
 **Abdelkarim El Hajbi**  
-🔗 [LinkedIn](https://www.linkedin.com/in/abdelkarim-el-hajbi)  
-💻 [GitHub](https://github.com/AbdelkarimElHajbi)
+🔗 [LinkedIn](https://www.linkedin.com/in/abdelkarim-el-hajbi-65b783160/)  
+💻 [GitHub](https://github.com/Elhajbi)
